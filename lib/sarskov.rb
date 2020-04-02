@@ -1,6 +1,7 @@
-require "sarskov/version"
+# frozen_string_literal: true
+
+require 'sarskov/version'
 
 module Sarskov
   class Error < StandardError; end
-  # Your code goes here...
 end
